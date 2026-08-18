@@ -745,74 +745,73 @@ export default function App() {
             </div>
 
             <div className="space-y-6 relative border-l border-white/5 pl-6 ml-3">
-              {/* Experience Node 1 (YIST X STEM Facilitator) */}
+              {/* Experience Node 1 (YISTX) */}
               <div className="relative">
                 <div className="absolute -left-[31px] top-1 w-3 h-3 rounded-full bg-cyber-mint border-4 border-obsidian" />
                 <div className="space-y-2">
                   <div className="flex items-center justify-between text-xs font-mono">
-                    <span className="text-cyber-mint">June 2026</span>
+                    <span className="text-cyber-mint">May 2026</span>
                     <span className="text-gray-500">Accra, Ghana</span>
                   </div>
-                  <h3 className="text-base font-bold text-white">STEM Facilitator & 3D Modeling Tutor</h3>
-                  <h4 className="text-sm text-gray-400 font-mono">YIST X</h4>
+                  <h3 className="text-base font-bold text-white">Tutor – 3D Modeling & Design Thinking</h3>
+                  <h4 className="text-sm text-gray-400 font-mono">Youth Institute of Science and Technology (YISTX)</h4>
                   <ul className="text-xs text-gray-400 space-y-1 list-disc list-inside">
-                    <li>Taught Design Thinking algorithms and interactive 3D modeling frameworks.</li>
-                    <li>Emphasized the practical importance of prototyping and hardware validation.</li>
-                    <li>Guided students in structural design projects and physical drafting loops.</li>
+                    <li>Instructed 15+ senior high school students in 3D modeling and design thinking at STEM bootcamp.</li>
+                    <li>Developed and delivered comprehensive curriculum with practical design methodologies.</li>
                   </ul>
                 </div>
               </div>
 
-              {/* Experience Node 2 */}
+              {/* Experience Node 2 (Ledzokuku Municipal Assembly) */}
               <div className="relative">
                 <div className="absolute -left-[31px] top-1 w-3 h-3 rounded-full bg-cyber-mint border-4 border-obsidian" />
                 <div className="space-y-2">
                   <div className="flex items-center justify-between text-xs font-mono">
-                    <span className="text-cyber-mint">Jan 2026 - Present</span>
+                    <span className="text-cyber-mint">January 2026 – October 2026</span>
                     <span className="text-gray-500">Accra, Ghana</span>
                   </div>
-                  <h3 className="text-base font-bold text-white">National Service Intern (MIS Dept)</h3>
-                  <h4 className="text-sm text-gray-400 font-mono">Ledzokuku Municipal Assembly (LEKMA) Headquarters</h4>
+                  <h3 className="text-base font-bold text-white">Management Information Systems (MIS) Officer</h3>
+                  <h4 className="text-sm text-gray-400 font-mono">Ledzokuku Municipal Assembly</h4>
                   <ul className="text-xs text-gray-400 space-y-1 list-disc list-inside">
-                    <li>Built interactive dashboards using Advanced Excel for visual logistics tracking.</li>
-                    <li>Maintained and optimized the official WordPress content management system.</li>
-                    <li>Collaborated in resolving daily technical operations and network checks.</li>
+                    <li>Maintained system security with routine updates and optimization for 40+ organizational devices.</li>
+                    <li>Processed financial records in Excel; sorted, filtered, and reconciled 150+ transactions monthly with 100% accuracy.</li>
+                    <li>Improved data accessibility and reporting efficiency for district municipal headquarters.</li>
                   </ul>
                 </div>
               </div>
 
-              {/* Experience Node 3 */}
+              {/* Experience Node 3 (Nyansapo Institute) */}
               <div className="relative">
                 <div className="absolute -left-[31px] top-1 w-3 h-3 rounded-full bg-cyber-mint border-4 border-obsidian" />
                 <div className="space-y-2">
                   <div className="flex items-center justify-between text-xs font-mono">
-                    <span className="text-cyber-mint">May 2025 - Aug 2025</span>
+                    <span className="text-cyber-mint">June 2025 – August 2025</span>
                     <span className="text-gray-500">Accra, Ghana</span>
                   </div>
-                  <h3 className="text-base font-bold text-white">STEM Facilitator & Curriculum Developer</h3>
+                  <h3 className="text-base font-bold text-white">Technical Curriculum Developer & STEM Facilitator</h3>
                   <h4 className="text-sm text-gray-400 font-mono">Nyansapo Institute</h4>
                   <ul className="text-xs text-gray-400 space-y-1 list-disc list-inside">
-                    <li>Developed cybersecurity lesson curricula for Summer programs.</li>
-                    <li>Taught Design Thinking algorithms and game mechanics in Python.</li>
-                    <li>Mentored students in foundational scripting loops and logic models.</li>
+                    <li>Developed and instructed a comprehensive technical curriculum covering Python programming, Python for game development, and foundational Cybersecurity principles.</li>
+                    <li>Mentored over 15 students, guiding them to successfully build their first Python games using the Pygame library.</li>
+                    <li>Volunteered as a teaching assistant for additional courses including Artificial Intelligence.</li>
                   </ul>
                 </div>
               </div>
 
-              {/* Experience Node 4 */}
+              {/* Experience Node 4 (Chevera Company Limited) */}
               <div className="relative">
                 <div className="absolute -left-[31px] top-1 w-3 h-3 rounded-full bg-cyber-mint border-4 border-obsidian" />
                 <div className="space-y-2">
                   <div className="flex items-center justify-between text-xs font-mono">
-                    <span className="text-cyber-mint">May 2022 - Aug 2024</span>
+                    <span className="text-cyber-mint">September 2021 – June 2025</span>
                     <span className="text-gray-500">Accra, Ghana</span>
                   </div>
-                  <h3 className="text-base font-bold text-white">Web Development Intern</h3>
-                  <h4 className="text-sm text-gray-400 font-mono">Chevera Company LTD</h4>
+                  <h3 className="text-base font-bold text-white">Front-End Developer / IT Consultant</h3>
+                  <h4 className="text-sm text-gray-400 font-mono">Chevera Company Limited</h4>
                   <ul className="text-xs text-gray-400 space-y-1 list-disc list-inside">
-                    <li>Programmed company website templates using HTML, CSS, JavaScript.</li>
-                    <li>Ran WCAG compliance checks and responsive testing across browsers.</li>
-                    <li>Migrated content database nodes and troubleshot application crashes.</li>
+                    <li>Established the company’s digital presence by configuring Google Business Profile and launching marketing website.</li>
+                    <li>Collaborated with stakeholders to gather requirements and translate designs into clean, maintainable code for the company’s website.</li>
+                    <li>Designed and developed company website from design mockup to production using SDLC methodology.</li>
                   </ul>
                 </div>
               </div>
