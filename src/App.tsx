@@ -423,9 +423,7 @@ export default function App() {
               </a>
               {/* Dynamic CV Download buttons */}
               <a 
-                href={role === 'webDeveloper' 
-                  ? 'https://drive.google.com/file/d/1OPFQ6WuVgplMVBmNTkWkC7oVOUDQbrb_/view?usp=drive_link' 
-                  : 'https://drive.google.com/file/d/1Bro3ccHqCHzst-fvLa-exvQ3OCgAlL6k/view?usp=drive_link'} 
+                href="https://docs.google.com/document/d/1j1IfeX72u7oS2OwBoJ0fIuEWcOeqBGZOpVXCucfZsd0/edit?usp=drive_link" 
                 target="_blank"
                 rel="noreferrer"
                 className="px-5 py-2.5 rounded-lg bg-white/5 border border-white/10 hover:border-cyber-mint hover:bg-cyber-mint/5 text-sm font-semibold tracking-tight transition-all duration-300 flex items-center gap-2 text-white"
@@ -515,15 +513,13 @@ export default function App() {
                   </span>
                   {/* Biography CV Quick access */}
                   <a 
-                    href={role === 'webDeveloper' 
-                      ? 'https://drive.google.com/file/d/1OPFQ6WuVgplMVBmNTkWkC7oVOUDQbrb_/view?usp=drive_link' 
-                      : 'https://drive.google.com/file/d/1Bro3ccHqCHzst-fvLa-exvQ3OCgAlL6k/view?usp=drive_link'} 
+                    href="https://docs.google.com/document/d/1j1IfeX72u7oS2OwBoJ0fIuEWcOeqBGZOpVXCucfZsd0/edit?usp=drive_link" 
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-1.5 px-3 py-1 rounded bg-cyber-mint/10 border border-cyber-mint/20 text-cyber-mint text-[10px] font-mono hover:bg-cyber-mint hover:text-obsidian transition-all"
                   >
                     <FileText className="w-3 h-3" />
-                    <span>Download {role === 'webDeveloper' ? 'Developer' : 'Security'} CV</span>
+                    <span>Download CV</span>
                   </a>
                 </h3>
                 <p className="text-gray-400 text-sm leading-relaxed">
